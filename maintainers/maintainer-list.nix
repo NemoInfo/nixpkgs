@@ -20688,6 +20688,12 @@
     githubId = 349360;
     name = "Brandon Bennett";
   };
+  nemoinfo = {
+    name = "Aaron Panaitescu";
+    email = "aaronpanaitescu@gmail.com";
+    github = "NemoInfo";
+    githubId = 43666788;
+  };
   neo = {
     github = "chojs23";
     githubId = 55792153;
